@@ -10,9 +10,9 @@
     "url": "git+https://github.com/mcdado/certbot-dns-ovh"
   },
   "bin": [
-    {"ovh-authorize" "./bin/authorize.js"},
-    {"ovh-create-record" "./bin/create-record.js"},
-    {"ovh-delete-record" "./bin/delete-record.js"}
+    {"ovh-authorize": "./bin/authorize.js"},
+    {"ovh-create-record": "./bin/create-record.js"},
+    {"ovh-delete-record": "./bin/delete-record.js"}
   ],
   "keywords": [
     "ovh",
