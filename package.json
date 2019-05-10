@@ -13,7 +13,7 @@
     "ovh-authorize": "bin/authorize.js",
     "ovh-create-record": "bin/create-record.js",
     "ovh-delete-record": "bin/delete-record.js"
-  ],
+  },
   "keywords": [
     "ovh",
     "certbot",
